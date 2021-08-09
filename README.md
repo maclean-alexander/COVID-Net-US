@@ -14,7 +14,7 @@ Motivated by this challenge, this study introduces COVID-Net-US, a novel, highly
 
 COVID-Net-US is built using the dataset prepared by the [COVID-US](https://github.com/nrc-cnrc/COVID-US) open-source open-access initiative maintained by members of the National Research Council Canada and the Vision and Image Processing Research Group, University of Waterloo, Canada. See that repository, or the associated [paper](https://arxiv.org/abs/2103.10003), for further description of the collection and processing of the data, as well as the licenses of each set of data.
 
-For a detailed description of the methodology behind COVID-Net-US, please read the [INSERT LINK TO PAPER] paper.
+For a detailed description of the methodology behind COVID-Net-US, please read the [paper](https://arxiv.org/abs/2108.03131).
 
 Our desire is to encourage broad adoption and contribution to this project. Accordingly this project has been licensed under the GNU Affero General Public License 3.0. Please see license file for terms. If you would like to discuss alternative licensing models, please reach out to us at alex.maclean@uwaterloo.ca and a28wong@uwaterloo.ca or alex@darwinai.ca.
 
@@ -27,7 +27,13 @@ If there are any technical questions after the README, FAQ, and past/current iss
 If you find our work useful for your research, please cite:
 
 ```
-@article{articleplaceholder}
+@inproceedings{MacLean2021,
+  author={MacLean, Alexander, and Abbasi, Saad, and Ebadi, Ashkan, and Zhao, Andy, and Pavlova, Maya, and Gunraj, Hayden, and Xi, Pengcheng, and Kohli, Sonny, and Wong, Alexander},
+  title={COVID-Net US: A Tailored, Highly Efficient, Self-Attention Deep Convolutional Neural Network Design for Detection of COVID-19 Patient Cases from Point-of-care Ultrasound Imaging},
+  year={2021},
+  booktitle={FAIR-MICCAI'21},
+  url={https://arxiv.org/abs/2108.03131}
+}
 ```
 
 ## Core COVID-Net Team
