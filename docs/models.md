@@ -7,7 +7,7 @@ COVID-Net-US-<dataset version>(-<dataset subset if applicable>) (<minor dataset 
 For example, a COVID-Net-US model trained on COVIDxUS-1 dataset's Convex subset's "A" variant would be called "COVID-Net-US-1-convex (1A)".
 
 ## COVID-Net CT-1 Models
-These models are trained and tested on the COVID CT-1 dataset.
+These models are trained and tested on the COVIDxUS-1 dataset.
 
 |        Model        | Type | Input Resolution | COVID-19 Sensitivity (%) | Accuracy (%) | # Params (K) | FLOPs (M) |
 |:-------------------:|:----:|:----------------:|:------------------------:|:------------:|:------------:|:---------:|
